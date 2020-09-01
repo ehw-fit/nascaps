@@ -2,12 +2,12 @@
 A Framework for Neural Architecture Search to Optimize the Accuracy and Hardware Efficiency of Convolutional Capsule Networks. This repository provides source codes and [the best-found solutions](chroms/README.md) from neural architecture search of convolutional capsule networks. For more detail please follow [a paper](https://arxiv.org/abs/2008.08476). If you used these results in your research, please refer to the paper
 
 
-     MARCHISIO Alberto, MASSA Andrea, MRAZEK Vojtech, BUSSOLINO Beatrice, MARTINA Mauricio and SHAFIQUE Muhammad. NASCaps: A Framework for Neural Architecture Search to Optimize the Accuracy and Hardware Efficiency of Convolutional Capsule Networks. In: IEEE/ACM International Conference on Computer-Aided Design (ICCAD '20). Virtual Event: Institute of Electrical and Electronics Engineers, 2020, p. 9. ISBN 978-1-4503-8026-3. 
+     MARCHISIO Alberto, MASSA Andrea, MRAZEK Vojtech, BUSSOLINO Beatrice, MARTINA Maurizio and SHAFIQUE Muhammad. NASCaps: A Framework for Neural Architecture Search to Optimize the Accuracy and Hardware Efficiency of Convolutional Capsule Networks. In: IEEE/ACM International Conference on Computer-Aided Design (ICCAD '20). Virtual Event: Institute of Electrical and Electronics Engineers, 2020, p. 9. ISBN 978-1-4503-8026-3. 
 
 
 ```bibtex
 @INPROCEEDINGS{nascaps:2020,
-   author = "Alberto Marchisio and Andrea Massa and Vojtech Mrazek and Beatrice Bussolino and Mauricio Martina and Muhammad Shafique",
+   author = "Alberto Marchisio and Andrea Massa and Vojtech Mrazek and Beatrice Bussolino and Maurizio Martina and Muhammad Shafique",
    title = "NASCaps: A Framework for Neural Architecture Search to Optimize the Accuracy and Hardware Efficiency of Convolutional Capsule Networks",
    pages = 9,
    booktitle = "IEEE/ACM International Conference on Computer-Aided Design (ICCAD '20)",
